@@ -1,7 +1,7 @@
 # 🛡️ Comprehensive Automated Security Suite (CASS)
 
 ## 📌 Overview
-CASS is an open-source **automated security auditing tool** that assesses security across multiple domains, including **Active Directory, VPN, Wi-Fi, Email, Network, Endpoints, and PowerShell**. It helps identify vulnerabilities and provides actionable recommendations based on industry-standard security frameworks.
+CASS is an open-source **automated security auditing tool** that assesses security across multiple domains, including **Active Directory, SSH, Endpoints, and PowerShell**. It helps identify vulnerabilities and provides actionable recommendations based on industry-standard security frameworks.
 
 ## 🎯 Objective
 - Automate **security assessments** across IT infrastructure.
